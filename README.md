@@ -1,2 +1,2 @@
-# abtesting_recipes
-A/B testing recipes.
+# ABTesting Recipes
+A/B testing recipe collection.
