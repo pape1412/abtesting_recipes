@@ -1,0 +1,20 @@
+# Top most .editorconfig file
+root = true
+
+# Editor config for ..
+# .. all files
+[*]
+indent_style = tab 
+indent_size = 4
+insert_final_newline = true
+
+# .. README.md files only
+[*.md]
+indent_style = tab 
+indent_size = 4 
+
+# .. dotfiles only
+[.*]
+indent_style = tab 
+indent_size = 4
+
