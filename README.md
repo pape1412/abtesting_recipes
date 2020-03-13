@@ -19,11 +19,11 @@ R\
   power_analysis_R.ipynb
   survey_sample_size_R.ipynb
 data\
-  pwr_data_control.csv					# toy examples
+  pwr_data_control.csv				# toy examples
   test_data_control.csv
   test_data_test.csv
 sql\
-  bootstrapping_test.sql				# custom sql functions
+  bootstrapping_test.sql			# custom sql functions
   descriptive_statistics.sql
   t_test.sql
 ```
