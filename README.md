@@ -8,12 +8,14 @@ This repository serves as growing collection of theory and methodologies around 
 - Permutation tests
 - Bootstrapping tests
 - Group sequential designs
+- Bayesian estimation
 
 ## Files
 Each of the topics listed above is presented in a jupyter notebook including both a brief overview of theoretical foundations and a coded example. At the moment all coded examples are written in ```R```. And because I'm sometimes too lazy to switch back and forth between different tools I've added a couple of handy custom functions to run on my SQL client directly (works on Exasol).
 ```
 R\
-  bootstrapping_test_R.ipynb			# notebooks
+  bayesian_estimation_R.ipynb			# notebooks
+  bootstrapping_test_R.ipynb
   group_sequential_designs_R.ipynb
   permutation_test_R.ipynb
   power_analysis_R.ipynb
